@@ -1,0 +1,13 @@
+.accusations {
+    display: grid;
+    justify-items: center;
+    align-items: center;
+}
+  
+.accusation {
+    cursor: pointer;
+    color: black;
+    background-color: red;
+    font-weight: bolder;
+}
+
